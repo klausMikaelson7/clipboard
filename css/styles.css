@@ -1,0 +1,146 @@
+.img {
+  background-image: url(../images/logo.svg);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+
+h1 {
+  color: hsl(210, 10%, 33%);
+  font-family: 'Bai Jamjuree',sans-serif;
+  font-weight: 600;
+  margin-top: 0;
+}
+h2 {
+  color: hsl(210, 10%, 33%);
+  font-family: 'Bai Jamjuree',sans-serif;
+  font-weight: 600;
+}
+p {
+  color: hsl(201, 11%, 66%);
+  font-size: 18px;
+  font-family: 'Bai Jamjuree',sans-serif;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.title {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center;
+  margin-top: 0;
+}
+.butto {
+  border-radius: 30px;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+.intro {
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 8%;
+  margin-bottom: 4%;
+}
+.mid {
+  width: 100%;
+  float: left;
+}
+.kim {
+  margin-left: 3%;
+  padding: 3%;
+}
+.midsection {
+  margin-top: 15%;
+}
+.midp {
+  color: hsl(201, 11%, 66%);
+  font-size: 18px;
+  font-family: 'Bai Jamjuree',sans-serif;
+  font-weight: 400;
+  margin-top: 0;
+}
+h4 {
+  color: hsl(210, 10%, 33%);
+  font-family: 'Bai Jamjuree',sans-serif;
+  font-weight: 600;
+}
+.sec3 {
+  margin: 10% 20% 5% 20%;
+  text-align: center;
+}
+.sec3image {
+  width: 100%;
+  margin-top: 5%;
+}
+.sec3div2 {
+  margin: 0% 20% 5% 20%;
+  text-align: center;
+}
+.sec3div3 {
+  padding: 3% 5%;
+  text-align: center;
+}
+.svg {
+  margin-bottom: 5%;
+}
+.sec3div4 {
+  margin: 5% 1% 5% 1%;
+}
+.sec3div5 {
+  text-align: center;
+  margin-left: 3%;
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+.sec3div6 {
+  text-align: center;
+  margin: 10% 20% 5% 20%;
+}
+.last {
+  color: hsl(201, 11%, 66%);
+  font-size: 20px;
+  font-family: 'Bai Jamjuree',sans-serif;
+  font-weight: 400;
+
+}
+.boom {
+    background-image: url(../images/logo.svg);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: center;
+    padding: 1%;
+}
+@media (max-width:992px) {
+  .boom {
+    background-size: 10%;
+    padding:  4%;
+  }
+  
+  .svg {
+    margin-top: 10%;
+  }
+
+}
+
+.lastride{
+  padding: 4% 0;
+  text-align: center;
+}
+.svg1 {
+  margin-left: 10%;
+}
+.attribution {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: #f7f7f7;;
+}
+.em {
+  background-color: #f7f7f7;
+}
+.okay {
+  text-align: center;
+}
