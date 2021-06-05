@@ -5,6 +5,12 @@
   text-align: center;
   margin-bottom: 0;
 }
+.update {
+  width:100%;
+}
+body {
+  overflow-x:hidden;
+}
 
 
 h1 {
